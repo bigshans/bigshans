@@ -3,5 +3,3 @@
 # Bigshans's Profile
 
 Thanks for visiting.
-
-I'm practical anarchists.
