@@ -1,5 +1,8 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=bigshans&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=bigshans&theme=vue-dark&layout=compact&show_icons=true" />
 
 # Bigshans's Profile
 
-Thanks for visiting.
+- [rime-zrm](https://github.com/bigshans/rime-zrm)
+- [log4js-rabbitmq-appenders](https://github.com/bigshans/log4js-rabbitmq-appenders)
+- [art-html](https://github.com/bigshans/art-html)
+- [blog](https://github.com/bigshans/hugo-blog)
