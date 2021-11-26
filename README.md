@@ -1,4 +1,5 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=bigshans&theme=vue-dark&layout=compact&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=bigshans&theme=vue-dark&layout=compact&show_icons=true" height="195px" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigshans&layout=compact&show_icons=true&theme=vue-dark" height="195px" />
 
 # Bigshans's Profile
 
