@@ -1,11 +1,5 @@
 # Bigshans's Profile
 
-- [rime-zrm](https://github.com/bigshans/rime-zrm)
-- [log4js-rabbitmq-appenders](https://github.com/bigshans/log4js-rabbitmq-appenders)
-- [art-html](https://github.com/bigshans/art-html)
-- [blog](https://github.com/bigshans/hugo-blog)
-
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
@@ -20,3 +14,12 @@
   <br><br>
   <img src="https://activity-graph.herokuapp.com/graph?username=bigshans&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+
+<div>
+<a src="https://github.com/bigshans/rime-zrm"> <img height=140 src="https://github-readme-stats.vercel.app/api/pin/?username=bigshans&repo=rime-zrm" /></a>
+<a href="https://github.com/bigshans/bigshans.github.io"> <img width=400 height=140 src="https://github-readme-stats.vercel.app/api/pin/?username=bigshans&repo=bigshans.github.io" /></a>
+ </div>
+ <div>
+<a href="https://github.com/bigshans/linux-xanmod-cacule-anbox-cjktty"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bigshans&repo=linux-xanmod-cacule-anbox-cjktty" /></a>
+<a href="https://github.com/bigshans/WorkingTime"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bigshans&repo=WorkingTime" /> </a>
+ </div>
