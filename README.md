@@ -17,7 +17,7 @@
 
 <div>
 <a href="https://github.com/bigshans/rime-zrm"><img height=140 src="https://github-readme-stats.vercel.app/api/pin/?username=bigshans&repo=rime-zrm" /></a>
-<a href="https://github.com/bigshans/bigshans.github.io"> <img width=400 height=140 src="https://github-readme-stats.vercel.app/api/pin/?username=bigshans&repo=bigshans.github.io" /></a>
+<a href="https://github.com/bigshans/.vim"> <img width=400 height=140 src="https://github-readme-stats.vercel.app/api/pin/?username=bigshans&repo=.vim" /></a>
  </div>
  <div>
 <a href="https://github.com/bigshans/linux-xanmod-cacule-anbox-cjktty"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bigshans&repo=linux-xanmod-cacule-anbox-cjktty" /></a>
