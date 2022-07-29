@@ -1,4 +1,6 @@
-![](https://count.getloli.com/get/@:bigshans)
+<p align="center">
+  <img src="https://count.getloli.com/get/@:bigshans" />
+</p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align=center>
