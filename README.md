@@ -26,13 +26,18 @@
 </p>
 
 
-<details>
-  <summary>:handshake: Who am I?</summary>
-  A programmer, vimer and linux enthusiast.
+<details open>
+  <summary>:handshake: <b>Who am I?</b></summary>
+  <p pading-left="1px">
+  <samp>
+    &nbsp;&nbsp; A nodejs fullstack developer, vimer and linux enthusiast.
+  </samp>
+  </p>
+
 </details>
 
 <details>
-<summary>:trophy: Github Stats</summary>
-<img src="https://github-readme-stats-omega-puce.vercel.app/api?username=bigshans&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-<img src="https://github-profile-trophy.vercel.app/?username=bigshans">
+<summary>:trophy: <b>Github Stats</b></summary>
+&nbsp;&nbsp;<img src="https://github-readme-stats-omega-puce.vercel.app/api?username=bigshans&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+&nbsp;&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=bigshans">
 </details>
