@@ -1,26 +1,38 @@
+<h1 align="center">Hi 👋, I'm @bigshans</h1>
 <p align="center">
-  <img src="https://count.getloli.com/get/@:bigshans" />
+  <samp>
+    <a href="https://github.com/bigshans">me</a> .
+    <a href="https://blog.bigshans.top/">blog</a> .
+    <a href="https://bigshans.github.io/index.xml">rss</a>
+  </samp>
+</p>
+<h4 align="center">
+  Welcome here, my <img src="https://count.getloli.com/get/@:bigshans" />th visitor.
+</h4>
+
+<h2 align="center">Tools && Skills</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/vim-%23019733.svg?&style=for-the-badge&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/firefox-%23FF7139.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
+  <img src="https://img.shields.io/badge/arch%20linux-%231793D1.svg?&style=for-the-badge&logo=arch%20linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/hugo-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" />
 </p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<p align=center>
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=176 align="center" src="https://github-readme-stats-omega-puce.vercel.app/api/top-langs/?username=bigshans&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-        </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" height=176 src="https://github-readme-stats-omega-puce.vercel.app/api?username=bigshans&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br>
-  <!--<img src="https://activity-graph.herokuapp.com/graph?username=bigshans&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
-</p>
 
-<div>
-<a href="https://github.com/bigshans/rime-zrm"><img height=140 src="https://github-readme-stats-omega-puce.vercel.app/api/pin/?username=bigshans&repo=rime-zrm" /></a>
-<a href="https://github.com/bigshans/.vim"> <img width=400 height=140 src="https://github-readme-stats-omega-puce.vercel.app/api/pin/?username=bigshans&repo=.vim" /></a>
- </div>
- <div>
-<a href="https://github.com/bigshans/linux-xanmod-cacule-anbox-cjktty"><img src="https://github-readme-stats-omega-puce.vercel.app/api/pin/?username=bigshans&repo=linux-xanmod-cacule-anbox-cjktty" /></a>
-<a href="https://github.com/bigshans/marktext"><img src="https://github-readme-stats-omega-puce.vercel.app/api/pin/?username=bigshans&repo=marktext" /> </a>
- </div>
+<details>
+  <summary>:handshake: Who am I?</summary>
+  A programmer, vimer and linux enthusiast.
+</details>
+
+<details>
+<summary>:trophy: Github Stats</summary>
+<img src="https://github-readme-stats-omega-puce.vercel.app/api?username=bigshans&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=bigshans">
+</details>
