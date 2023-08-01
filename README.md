@@ -38,6 +38,6 @@
 
 <details>
 <summary>:trophy: <b>Github Stats</b></summary>
-&nbsp;&nbsp;<img src="https://github-readme-stats-omega-puce.vercel.app/api?username=bigshans&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+&nbsp;&nbsp;<img src="https://github-readme-stats-fpkkcvtjl-bigshans.vercel.app/api?username=bigshans&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 &nbsp;&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=bigshans">
 </details>
