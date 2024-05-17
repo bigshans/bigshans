@@ -42,6 +42,6 @@
 &nbsp;&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=bigshans">
 </details>
 <p align="center">
-    <img width="300" src="./imgs/afdian.jpg" />
+    <a href="https://afdian.net/a/bigshans" ><img width="300" src="./imgs/afdian.jpg" /></a>
 </p>
 
