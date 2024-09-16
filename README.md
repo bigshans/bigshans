@@ -2,7 +2,7 @@
 <p align="center">
   <samp>
     <a href="https://github.com/bigshans">me</a> .
-    <a href="https://blog.bigshans.top/">blog</a> .
+    <a href="https://blog.bigshans.me/">blog</a> .
     <a href="https://bigshans.github.io/index.xml">rss</a>
   </samp>
 </p>
@@ -16,9 +16,7 @@
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/firefox-%23FF7139.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
   <img src="https://img.shields.io/badge/arch%20linux-%231793D1.svg?&style=for-the-badge&logo=arch%20linux&logoColor=white" />
   <img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" />
@@ -41,7 +39,10 @@
 &nbsp;&nbsp;<img src="https://github-readme-stats-fpkkcvtjl-bigshans.vercel.app/api?username=bigshans&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 &nbsp;&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=bigshans">
 </details>
-<p align="center">
+<details>
+  <summary><b>Supports me</b></summary>
+  <p align="center">
     <a href="https://afdian.net/a/bigshans" ><img width="300" src="./imgs/afdian.jpg" /></a>
-</p>
+  </p>
+</details>
 
