@@ -39,7 +39,7 @@
 &nbsp;&nbsp;<img src="https://github-readme-stats-fpkkcvtjl-bigshans.vercel.app/api?username=bigshans&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 &nbsp;&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=bigshans">
 </details>
-<details>
+<details open>
   <summary><b>Supports me</b></summary>
   <p align="center">
     <a href="https://afdian.net/a/bigshans" ><img width="300" src="./imgs/afdian.jpg" /></a>
